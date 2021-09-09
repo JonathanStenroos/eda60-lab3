@@ -1,1 +1,1 @@
-# eda60-lab3
+Laboration för kursen, eda60
